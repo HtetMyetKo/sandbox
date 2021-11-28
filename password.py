@@ -12,4 +12,8 @@ def main():
     else:
         print("Illegal access")
 
+
+def check_password(password):
+    return password == "12345"
+
 main()
