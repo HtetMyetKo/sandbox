@@ -1,0 +1,3 @@
+"""Cyrus"""
+
+print("Cyrus")
