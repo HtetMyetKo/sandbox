@@ -25,3 +25,10 @@ def distinguish_grade(score):
                 print("Excellent")
 
 main()
+
+
+"""A new part to generate a random score without user input"""
+
+# import random
+# score = random.uniform(0, 100)
+# print(score)
